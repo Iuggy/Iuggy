@@ -6,7 +6,7 @@
   <a href="https://github.com/Iuggy">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Iuggy&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iuggy&layout=compact&langs_count=7&theme=merko"/>
-   <img align="right" alt="Iuggy-code" src="https://c.tenor.com/1mwdqr51emcAAAAC/test-typing.gif"> 
+   
 </div>
  <img align="center" alt="Iuggy-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Iuggy-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
