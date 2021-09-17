@@ -20,5 +20,5 @@
     <a href="https://www.linkedin.com/in/iury-ferreira-a78607220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://steamcommunity.com/profiles/76561199072194432" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"target="_blank"></a>
   <a href="https://open.spotify.com/user/12169949823?si=bbf6ebd08f3144b0" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-
+  <a href="https://codepen.io/iuggy" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 </div>
